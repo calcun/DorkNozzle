@@ -1,0 +1,12 @@
+E:\Prog117\DorkNozzle\DorkNozzle\bin\DorkNozzle.dll.config
+E:\Prog117\DorkNozzle\DorkNozzle\bin\DorkNozzle.dll
+E:\Prog117\DorkNozzle\DorkNozzle\bin\DorkNozzle.pdb
+E:\Prog117\DorkNozzle\DorkNozzle\obj\Debug\CalebDorkNozzle.csprojResolveAssemblyReference.cache
+E:\Prog117\DorkNozzle\DorkNozzle\obj\Debug\DorkNozzle.dll
+E:\Prog117\DorkNozzle\DorkNozzle\obj\Debug\DorkNozzle.pdb
+F:\Prog117\DorkNozzle\DorkNozzle\bin\DorkNozzle.dll.config
+F:\Prog117\DorkNozzle\DorkNozzle\bin\DorkNozzle.dll
+F:\Prog117\DorkNozzle\DorkNozzle\bin\DorkNozzle.pdb
+F:\Prog117\DorkNozzle\DorkNozzle\obj\Debug\CalebDorkNozzle.csprojResolveAssemblyReference.cache
+F:\Prog117\DorkNozzle\DorkNozzle\obj\Debug\DorkNozzle.dll
+F:\Prog117\DorkNozzle\DorkNozzle\obj\Debug\DorkNozzle.pdb
